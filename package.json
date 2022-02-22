@@ -1,0 +1,25 @@
+{
+  "name": "kgirl_web_backend",
+  "version": "1.0.0",
+  "description": "This is the backend proyect of the Kgirl App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontpan-ik/Kgirl_Web_Backend.git"
+  },
+  "author": "Equipo 5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dontpan-ik/Kgirl_Web_Backend/issues"
+  },
+  "homepage": "https://github.com/dontpan-ik/Kgirl_Web_Backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
